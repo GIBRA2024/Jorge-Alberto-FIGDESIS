@@ -1,0 +1,39 @@
+# Node.js dependencies (si usas npm o yarn)
+node_modules/
+
+# Archivos de configuración de WebStorm
+.idea/
+*.iml
+
+# Logs y sistemas operativos
+*.log
+.DS_Store
+Thumbs.db
+
+# Cache de Babel
+.cache/
+
+# Build y distribución
+dist/
+build/
+
+# Archivos de prueba temporal
+*.tmp
+*.swp
+
+# Configuración de sistema operativo
+*.bak
+*.orig
+
+# Archivos generados por navegadores
+coverage/
+.sass-cache/
+
+# Configuración de entornos locales (puedes agregar estos si usas dotenv)
+.env
+.env.*
+
+# Archivos de empaquetadores (si usas Webpack, Parcel, etc.)
+.parcel-cache/
+.vite/
+.vscode/
