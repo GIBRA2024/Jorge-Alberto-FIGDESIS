@@ -4,7 +4,7 @@ VERSION:3.0
 N:Muñoz Cuadros;Jorge;Alberto;;
 FN:Jorge Alberto Muñoz Cuadros
 TEL: +57 3164823082
-EMAIL: jorge.munoz@figdesis.com
+EMAIL;TYPE=WORK: jorge.munoz@figdesis.com
 NOTE: Gerente General
 END:VCARD`;
 
